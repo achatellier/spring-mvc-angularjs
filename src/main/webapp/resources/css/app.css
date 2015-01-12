@@ -1,8 +1,13 @@
 /* app css stylesheet */
 
+body {
+	background: #eee;
+	color: grey;
+}
+
 #wrapper {
     margin: 0 auto;
-    width: 650px;
+    width: 700px;
     margin-top: 50px;
 }
 
